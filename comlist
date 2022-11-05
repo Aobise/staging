@@ -1,0 +1,15 @@
+cd /
+cd /home
+cd /home/ubuntu
+cd ..
+cat filename
+sudo apt install git
+apt update
+useradd -m
+useradd name
+pwd
+vim
+cat 
+ls
+we had 3files 
+we had 3 directories
